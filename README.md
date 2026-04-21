@@ -25,7 +25,7 @@ Meliputi proses:
 > - Image project sendiri (setelah push)
 > - Image dari teman (setelah pull)
 
-![Docker Images](./screenshots/docker-images.png)
+![Docker Images](./screenshots/imagesdocker.png)
 
 
 --- 
