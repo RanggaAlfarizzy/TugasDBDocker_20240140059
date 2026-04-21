@@ -26,3 +26,14 @@ Meliputi proses:
 > - Image dari teman (setelah pull)
 
 ![Docker Images](./screenshots/docker-images.png)
+
+
+--- 
+
+
+## 📦 2. Docker Container
+
+📷 **Screenshot Docker Desktop - Containers**
+> Menampilkan container yang dibuat dari image teman
+
+![Docker Containers](./screenshots/docker-containers.png)
