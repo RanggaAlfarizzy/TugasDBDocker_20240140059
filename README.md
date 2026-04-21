@@ -46,7 +46,7 @@ Meliputi proses:
 > Halaman Form:
 > - Tabel sudah diisi dengan nama sendiri
 
-![Web Sendiri](webteman.png)
+![Web Sendiri](websaya.png)
 
 ---
 
@@ -56,4 +56,4 @@ Meliputi proses:
 > Halaman Form:
 > - Tabel sudah diisi dengan nama sendiri
 
-![Web Teman](./screenshots/web-teman.png)
+![Web Teman](webteman.png)
