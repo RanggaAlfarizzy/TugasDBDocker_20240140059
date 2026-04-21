@@ -36,7 +36,7 @@ Meliputi proses:
 📷 **Screenshot Docker Desktop - Containers**
 > Menampilkan container yang dibuat dari image teman
 
-![Docker Containers](./screenshots/docker-containers.png)
+![Docker Containers](imagecontainer.png)
 
 ---
 
